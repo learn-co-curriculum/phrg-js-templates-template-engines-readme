@@ -260,3 +260,4 @@ Finally, we learned how to use the different delimiters to display text, escape 
 ## Resources
 
 - [lodash.template](https://lodash.com/docs#template)
+<p data-visibility='hidden'>PHRG JavaScript lodash Templates</p>
