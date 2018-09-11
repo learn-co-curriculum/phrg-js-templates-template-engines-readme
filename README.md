@@ -257,6 +257,9 @@ In this lesson we learned how to use lodash and the `template()` function to cre
 
 Finally, we learned how to use the different delimiters to display text, escape HTML, and execute code for more powerful templates.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-templates-template-engines-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-templates-template-engines-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 - [lodash.template](https://lodash.com/docs#template)
